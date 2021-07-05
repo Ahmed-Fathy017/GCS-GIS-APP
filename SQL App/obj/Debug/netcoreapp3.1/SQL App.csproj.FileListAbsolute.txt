@@ -1,0 +1,74 @@
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\SQL App.exe
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\SQL App.deps.json
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\SQL App.runtimeconfig.json
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\SQL App.runtimeconfig.dev.json
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\SQL App.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\SQL App.pdb
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GIS app\GIS app trials\SQL App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.csproj.AssemblyReference.cache
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.AssemblyInfoInputs.cache
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.AssemblyInfo.cs
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.csproj.CoreCompileInputs.cache
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.csproj.CopyComplete
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.dll
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.pdb
+E:\GIS app\GIS app trials\SQL App\obj\Debug\netcoreapp3.1\SQL App.genruntimeconfig.cache
